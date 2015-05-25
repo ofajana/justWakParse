@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "_default": {
+            "link": "justwak"
+        }, 
+        "justwak": {
+            "applicationId": "iXJBCKOZQ1wInOoIoFOfjMwTTOF3naR7950sdaGl", 
+            "masterKey": "eVJ4PUZ04yaC1Ynm0pMuN5Ncefq0a6mb3dIU8Dtp"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.3"
+    }
+}
